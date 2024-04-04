@@ -137,6 +137,7 @@ const Footer = () => {
           <div className="copyright-text">© Copyright <a href="#">Autorex</a> 2020 . All right reserved.</div>
           <div className="text">Created by <a href="#">ThemeArc</a></div>
         </div>
+        
       </div>
     </footer>
   )
